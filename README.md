@@ -3,4 +3,4 @@ This project offers scalable, configurable, and precise data extraction for dive
 
 1. Open the Trios folder
 2. Then, move to samash
-3. Access the project.py file from there and run it to create file
+3. Access the project.py file from there and run it to create an excel file
